@@ -1,0 +1,21 @@
+<?xml version="#.0" enconding="UTF-8" standalone="yes"?>
+        <digitmapFULLTOlist>
+            <DigitmapFullTO>
+                <notes>SITE1 Route, Site1-01</notes>
+                <deny>false</deny>
+                <digitpattern>+111111111111:+11111111199<digitpattern>
+            </DigitmapFullTO>    
+            
+            <DigitmapFullTO>
+                <notes>SITE1 Route, Site1-01</notes>
+                <deny>false</deny>
+                <digitpattern>+222222222222:+22222222299<digitpattern>
+            </DigitmapFullTO>    
+            
+            <DigitmapFullTO>
+                <notes>SITE1 Route, Site1-01</notes>
+                <deny>false</deny>
+                <digitpattern>+333333333333:+33333333399<digitpattern>
+            </DigitmapFullTO>    
+            
+</digitmapFullTOlist>
